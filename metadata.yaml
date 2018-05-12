@@ -1,0 +1,32 @@
+_repo: Cathedral-Cities-of-France_40390
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40390-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Marshall, Hester
+    gutenberg_agent_id: '40590'
+    url: http://www.gutenberg.org/2009/agents/40590
+  - agent_name: Marshall, Herbert, R. W. S.
+    alias: Marshall, Herbert (Herbert Menzies)
+    birthdate: 1841
+    deathdate: 1913
+    gutenberg_agent_id: '33986'
+    url: http://www.gutenberg.org/2009/agents/33986
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Menzies_Marshall
+description: Illustrated by Herbert Marshall.
+gutenberg_issued: '2012-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Cathedrals -- France'
+- !lcc 'DC'
+title: Cathedral Cities of France
+url: http://www.gutenberg.org/ebooks/40390
